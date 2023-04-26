@@ -1,11 +1,18 @@
 # project_4_sentiment_analysis
 
-1. 딥러닝을 통한 줌 세션 채팅 감정 분석
-2. 채팅내용 학습을 통한 간단한 챗봇
+## 프로젝트 개요
+1달간의 줌 세션 채팅 내용을 모아 딥러닝을 통해 분석해 보는 프로젝트  
+수행 기간 : 2022년 12월
 
-소개영상  
-<https://youtu.be/weGayTV0wIg>
+## 주요 기능
+1. 채팅내용에 대한 통계  
+2. 감정 분석 모델을 통해 전체적인 채팅의 증정도를 평가  
+3. 나의 채팅 내용을 학습시켜 나의 말투를 따라하는 챗봇 제작  
 
+소개영상   
+<https://youtu.be/weGayTV0wIg>  
+
+## 프레젠테이션
 ![codestates_project_4_for_pdf (1)](https://user-images.githubusercontent.com/109839413/233838719-b66c8796-eb84-44fb-951f-6705b5de58a5.png)
 ![codestates_project_4_for_pdf (2)](https://user-images.githubusercontent.com/109839413/233838721-55b57113-0590-452e-b185-6492e999f8fb.png)
 ![codestates_project_4_for_pdf (3)](https://user-images.githubusercontent.com/109839413/233838725-721b9337-969d-4074-984b-20513f67d502.png)
