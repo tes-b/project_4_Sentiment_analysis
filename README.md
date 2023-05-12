@@ -23,7 +23,6 @@
 ![codestates_project_4_for_pdf (8)](https://user-images.githubusercontent.com/109839413/233838732-a936cba4-d905-4e92-9c10-c07710f1aee2.png)
 ![codestates_project_4_for_pdf (9)](https://user-images.githubusercontent.com/109839413/233838733-3e396ab4-8e32-495e-aeb1-d3b6de956fc0.png)
 ![codestates_project_4_for_pdf (10)](https://user-images.githubusercontent.com/109839413/233838736-60099a3d-dd47-40df-814a-529203fabd2c.png)
-![codestates_project_4_for_pdf (11)](https://user-images.githubusercontent.com/109839413/233838737-3992b058-a4bb-495a-91cd-ab6f98cb6020.png)
 ![codestates_project_4_for_pdf (12)](https://user-images.githubusercontent.com/109839413/233838738-45c896c9-7a06-4adc-940c-aae8d46128ea.png)
 ![codestates_project_4_for_pdf (13)](https://user-images.githubusercontent.com/109839413/233838739-9f3eabbf-e6a8-4a96-b740-d0c33ec549fe.png)
 ![codestates_project_4_for_pdf (14)](https://user-images.githubusercontent.com/109839413/233838740-fb225d18-288e-4c1b-84e6-5f3df6e8ebc7.png)
